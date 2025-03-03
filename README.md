@@ -40,4 +40,4 @@
 
 ---
 
-This keeps everything clear and easy to read while incorporating your latest updates. Let me know if you need any more refinements! 🚀😊  
+i used ai to make this READ.ME so beware its a bit sh*tty at the moment... i will actually make a good one myself sometime soon (maybe)...
