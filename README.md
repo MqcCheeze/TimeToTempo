@@ -27,7 +27,7 @@
 
 ## 📌 To-Do List  
 
-- [x] Add **duration-based tempo calculation**  
+- [] Add **duration time option**  
 - [ ] Implement **MuseScore 4 support**  
 
 ---
