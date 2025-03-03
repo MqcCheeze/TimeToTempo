@@ -149,6 +149,7 @@ MuseScore {
 
             // This has to be done after the element is added to the score for some reason
             tempoElement.tempo = parseFloat(bpm/60);
+            tempoElement.tempoFollowText = true;
             
             // End the command
             curScore.endCmd();
