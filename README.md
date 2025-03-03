@@ -35,8 +35,10 @@
 
 ## 📌 To-Do List  
 
-- [x] Add **duration time option**  
-- [ ] Implement **MuseScore 4 support**  
+- [x] Add duration time option
+- [ ] Make window always stay on top
+- [ ] Possibly add tempo per beat support
+- [ ] Implement MuseScore 4 support**
 
 ---
 
