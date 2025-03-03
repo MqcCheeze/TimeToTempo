@@ -27,7 +27,7 @@
 
 ## 📌 To-Do List  
 
-- [] Add **duration time option**  
+- [x] Add **duration time option**  
 - [ ] Implement **MuseScore 4 support**  
 
 ---
