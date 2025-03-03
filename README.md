@@ -9,7 +9,6 @@
 ## 🚀 Features  
 
 - Converts a **time duration** into an appropriate **tempo marking**.  
-- Supports input in **`HH:MM:SS.FFF`** format *(hours:minutes:seconds:milliseconds)*.  
 - Option to **limit tempo to integers** or allow values **up to two decimal places**.  
 - **Navigate the score** using the **Previous Note** and **Next Note** buttons.  
 
@@ -20,7 +19,7 @@
 1. **Open a score** in **MuseScore 3**.  
 2. **Select a note or rest** before performing calculations.  
 3. Enter a **starting time** in the format: HH:MM:SS.FFF
-4. Toggle the **integer option** to round the tempo to a whole number *(if needed)*.  
+4. Toggle the **integer option** to round the tempo to a whole number *(if desired)*.  
 5. Click **Calculate** to determine the tempo.  
 6. Use **Previous Note** and **Next Note** buttons to navigate within the selected stave.  
 
