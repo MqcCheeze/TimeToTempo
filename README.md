@@ -34,8 +34,7 @@
 ---
 
 ## ⚠️ Known Issues
-- When using the **Previous** and **Next** buttons to go to a different note/rest. The visual indicator showing which note/rest is selected disappears.
-  - This does not happen when the **Calculate** button is pressed (I don't know why this happens in the first place)
+- NONE!!
 
 ---
 
