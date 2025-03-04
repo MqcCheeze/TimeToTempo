@@ -10,7 +10,7 @@ import QtQuick.Layouts 1.1
 import MuseScore
 
 MuseScore {
-      version: "1.1.1"
+      version: "1.0"
       title: "TimeToTempo"
       description: "Place a tempo marking on the selected note to match the duration desired"
       pluginType: "dialog"
