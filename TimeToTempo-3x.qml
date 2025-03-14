@@ -341,6 +341,7 @@ MuseScore {
                         MouseArea{
                               anchors.fill: parent
                               onClicked:  {
+                                    startingTimeValue.text = "";
                                     startingTimeValue.paste();
                               }
                         }
