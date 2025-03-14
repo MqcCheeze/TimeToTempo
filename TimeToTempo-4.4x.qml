@@ -11,7 +11,7 @@ import MuseScore
 
 MuseScore {
       version: "1.0.1"
-      title: "TimeToTempo"
+      title: "TimeToTempo 4.4x"
       description: "Place a tempo marking on the selected note to match the duration desired"
       pluginType: "dialog"
       categoryCode: "composing-arranging-tools"
@@ -361,7 +361,7 @@ MuseScore {
                         MouseArea{
                               anchors.fill: parent
                               onClicked:  {
-				    startingTimeValue.text = "";
+                                    startingTimeValue.text = "";
                                     startingTimeValue.paste();
                               }
                         }
@@ -397,7 +397,7 @@ MuseScore {
                         MouseArea{
                               anchors.fill: parent
                               onClicked:  {
-				    endingTimeValue.text = "";
+                                    endingTimeValue.text = "";
                                     endingTimeValue.paste();
                                     if (startingTimeValue.text != "" || startingTimeValue.text != null) {
                                           calculateTempo();
@@ -436,7 +436,7 @@ MuseScore {
                         MouseArea{
                               anchors.fill: parent
                               onClicked:  {
-				    durationTimeInput.text = "";
+                                    durationTimeInput.text = "";
                                     durationTimeInput.paste();
                                     calculateTempo();
                               }
