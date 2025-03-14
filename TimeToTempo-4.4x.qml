@@ -361,6 +361,7 @@ MuseScore {
                         MouseArea{
                               anchors.fill: parent
                               onClicked:  {
+				    startingTimeValue.text = "";
                                     startingTimeValue.paste();
                               }
                         }
@@ -396,6 +397,7 @@ MuseScore {
                         MouseArea{
                               anchors.fill: parent
                               onClicked:  {
+				    endingTimeValue.text = "";
                                     endingTimeValue.paste();
                                     if (startingTimeValue.text != "" || startingTimeValue.text != null) {
                                           calculateTempo();
@@ -434,6 +436,7 @@ MuseScore {
                         MouseArea{
                               anchors.fill: parent
                               onClicked:  {
+				    durationTimeInput.text = "";
                                     durationTimeInput.paste();
                                     calculateTempo();
                               }
