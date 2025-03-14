@@ -1,9 +1,6 @@
 # ⏱️ TimeToTempo  
 
 *A MuseScore plugin to convert a given time frame into a tempo.*  
-
-> **Note:** This plugin currently supports **MuseScore 3** only.
-
 ---
 
 ## 🚀 Features  
