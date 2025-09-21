@@ -31,7 +31,7 @@
 ---
 
 ## ⚠️ Known Issues
-- NONE!!
+- Don't use it on rests inside tuplets
 
 ---
 
